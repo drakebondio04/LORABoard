@@ -1,1 +1,1 @@
-#1 Ongoing codes are currently being used for the boards!
+Needs Updated when Non-Live SD Card version is completed and tested
